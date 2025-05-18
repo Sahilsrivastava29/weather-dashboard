@@ -3,7 +3,7 @@ Welcome to My Project — a modern web application built with powerful tools lik
 
 🌐 Live URL
 Check out the live project here:
-https://lovable.dev/projects/21546176-6327-46a2-aadc-e88d0c8b5cf6
+https://my-weather-dashboard-gilt.vercel.app/
 
 🛠️ Tech Stack
 This project is built using:
